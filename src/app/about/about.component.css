@@ -1,0 +1,18 @@
+#about {
+    background-color: white;
+  }
+  
+  #about h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #about .lead {
+    color: black;
+  }
+  
+  #about img {
+     height: 300px;
+     width: 300px;
+  }
+  

@@ -1,0 +1,76 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  /* Header */
+  header {
+    background: linear-gradient(90deg, gray, white);
+    color: white;
+    padding: 2rem 0;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: black;
+  }
+  
+  header p {
+    font-size: 1.25rem;
+    color: black;
+  }
+  
+  /* Attendance Overview Section */
+  #attendance-overview {
+    padding: 4rem 0;
+    background-color: #ffffff;
+  }
+  
+  #attendance-overview h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: black;
+  }
+  
+  #attendance-overview p {
+    font-size: 1.125rem;
+    color: white;
+  }
+  
+  /* Daily Events Section */
+  #daily-events {
+    padding: 4rem 0;
+    background-color: #f8f9fa;
+  }
+  
+  #daily-events h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: black;
+  }
+  
+  #daily-events p {
+    font-size: 1.125rem;
+    color: #6c757d;
+  }
+  
+  #daily-events .btn-primary {
+    background-color: black;
+    border-color: white;
+    padding: 0.75rem 2rem;
+    font-size: 1.125rem;
+  }
+  
+  #daily-events .btn-primary:hover {
+    background-color:gray;
+  }
+  
+  /* Pie Chart */
+  #attendanceChart {
+    max-width: 150%;
+    height: auto;
+  }
+  

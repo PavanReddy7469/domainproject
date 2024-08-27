@@ -1,0 +1,12 @@
+.active{
+background-color: grey;
+border-radius:30px ;
+color: white;
+font-weight: bold;
+}
+.navbar img {
+    height: 70px;       
+    width: 60px;        
+    margin-right: 10px;
+    vertical-align: middle;
+}
