@@ -5,7 +5,6 @@ import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
-import { StudentinformationsystemComponent } from './studentinformationsystem/studentinformationsystem.component';
 import { NgModule } from '@angular/core';
 
 export const routes: Routes = [
@@ -33,10 +32,7 @@ export const routes: Routes = [
         path: "signup",
         component: SignupComponent
     },
-    {
-        path: "studentinformationsystem",
-        component: StudentinformationsystemComponent
-    }
+
 ];
 
 @NgModule({
